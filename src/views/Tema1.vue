@@ -29,7 +29,7 @@
     figure.mb-5(data-aos="fade-up-right")
       img(src='@/assets/curso/img3.svg', style="width: 1100px").m-auto
     .h3 Interés simple
-    p Es el interés que se genera en un periodo determinado. Se calcula sobre el capital inicial y no es capitalizable; es decir, no se acumula con el capital para originar nuevos intereses.
+    p Es el interés que se genera en un período determinado. Se calcula sobre el capital inicial y no es capitalizable; es decir, no se acumula con el capital para originar nuevos intereses.
     .row.p-4.mx-0.align-items-center(style="background-color: #FAF4EE")
       .col-lg-5.mb-4.mb-lg-0
         figure(data-aos="flip-right")
@@ -67,7 +67,7 @@
         .cajon.color-primario.p-4.mb-4
           p.mb-0 #[b Respuesta:] Para obtener un monto de $35.000.000 durante 10 meses a la tasa del 2,5% de invertir $28.000.000.
     .h3 Interés compuesto
-    p Interés generado en un periodo de tiempo, con la característica especial de ser capitalizable; es decir, se acumula, con el capital, presentando un interés mayor al final del periodo.
+    p Interés generado en un período de tiempo, con la característica especial de ser capitalizable; es decir, se acumula, con el capital, presentando un interés mayor al final del período.
     .row.mx-0.p-4.align-items-center(style="background-color: #EAF1F7")
       .col-lg-7.mb-4.mb-lg-0
         .row.align-items-center.mb-4
@@ -158,7 +158,7 @@
             figure
               img(src='@/assets/curso/img5.svg', style="width:100px")
           .col
-            p #[b Ejemplo 3:] María realiza una inversión por valor de $ 750.000, por un periodo de 3 años. Al finalizar el tiempo le entregan $ 868.219. ¿Cuál es la tasa de interés compuesto aplicada? Una vez despejada la fórmula principal, se utilizará la siguiente:
+            p #[b Ejemplo 3:] María realiza una inversión por valor de $ 750.000, por un período de 3 años. Al finalizar el tiempo le entregan $ 868.219. ¿Cuál es la tasa de interés compuesto aplicada? Una vez despejada la fórmula principal, se utilizará la siguiente:
         figure.mb-4
           img(src='@/assets/curso/img15.svg', style="width:500px").m-auto
         .cajon.color-secundario.p-4.mb-4
@@ -201,7 +201,7 @@
           img(src='@/assets/curso/img18.svg', style="width:500px").m-auto
         .cajon.color-primario.p-4.mb-4
           p.mb-0 #[b Respuesta:] El tiempo del préstamo es de 22 meses.
-        p Para hallar el periodo (n), en Excel se utiliza la fórmula financiera llamada Nper, la cual se presenta a continuación:
+        p Para hallar el período (n), en Excel se utiliza la fórmula financiera llamada Nper, la cual se presenta a continuación:
       .col-lg-5
         figure(data-aos="flip-right")
           img(src='@/assets/curso/img19.svg')
@@ -237,25 +237,25 @@
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Tasa nominal")
             .col-12
-              p Tasa que se genera en un periodo de tiempo y que no capitaliza; por lo tanto, se dice que se asemeja al interés simple. (Vidaurri, 2017).
+              p Tasa que se genera en un período de tiempo y que no capitaliza; por lo tanto, se dice que se asemeja al interés simple. (Vidaurri, 2017).
           div(titulo="Tasa efectiva")
             .row
               .col-12
-                p Tasa que efectivamente se reconoce en la transacción financiera. Es capitalizable en el periodo de tiempo, haciendo referencia al interés compuesto. (Vidaurri, 2017).
+                p Tasa que efectivamente se reconoce en la transacción financiera. Es capitalizable en el período de tiempo, haciendo referencia al interés compuesto. (Vidaurri, 2017).
           div(titulo="Tasa periódica")
             .row
               .col-12
-                p Hace referencia al periodo de capitalización en el cual se realiza la operación financiera, la cual puede ser: diaria, mensual, bimestral, trimestral, cuatrimestral, semestral, anual, etc. (Vidaurri, 2017).
-          div(titulo="Tasa periódica")
+                p Hace referencia al período de capitalización en el cual se realiza la operación financiera, la cual puede ser: diaria, mensual, bimestral, trimestral, cuatrimestral, semestral, anual, etc. (Vidaurri, 2017).
+          div(titulo="Tasa anticipada y vencida")
             .row
               .col-12
                 p Como se había mencionado, las tasas de interés se presentan de forma anticipada o vencida. A continuación se relaciona el significado de cada una:
-                p #[b Anticipada (A)]: se calcula el interés de forma anticipada en el respectivo periodo. (Vidaurri, 2017).
-                p #[b Vencida (V)]: se calcula el interés de forma vencida en el periodo. (Vidaurri, 2017).
+                p #[b Anticipada (A)]: se calcula el interés de forma anticipada en el respectivo período. (Vidaurri, 2017).
+                p #[b Vencida (V)]: se calcula el interés de forma vencida en el período. (Vidaurri, 2017).
       .col-lg-5
         figure(data-aos="flip-right")
           img(src='@/assets/curso/img21.svg')
-    p.mb-5 Para aplicar los tipos de tasas de interés es importante conocer los periodos de capitalización, que se reconocen de la siguiente manera:
+    p.mb-5 Para aplicar los tipos de tasas de interés es importante conocer los períodos de capitalización, que se reconocen de la siguiente manera:
     .row.justify-content-center.mb-5
       .col-lg-7
         .tabla-b.color-acento-contenido
@@ -304,7 +304,7 @@
           img(src='@/assets/curso/img22.svg')
       .col-lg-8
         .h3 Equivalencia de tasas
-        p Hace referencia a la igualdad que debe existir entre el periodo de capitalización y el periodo de tiempo; para ejemplarizar, si la tasa se presenta de forma trimestral, el periodo debe darse de igual manera. Por lo tanto, de acuerdo con la operación se realizará la conversión de tasas con el fin de lograr su equivalencia (Vidaurri, 2017).
+        p Hace referencia a la igualdad que debe existir entre el período de capitalización y el período de tiempo; para ejemplarizar, si la tasa se presenta de forma trimestral, el período debe darse de igual manera. Por lo tanto, de acuerdo con la operación se realizará la conversión de tasas con el fin de lograr su equivalencia (Vidaurri, 2017).
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Para profundizar en la temática, recuerde explorar en la biblioteca del Servicio Nacional de Aprendizaje (SENA), donde encuentra libros de apoyo. A continuación se relaciona el libro Matemáticas Financieras, que fue utilizado para la definición de los conceptos anteriormente expuestos, para su revisión:
         a.anexo.mb-4.mb-lg-0(href="http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=3788" target="_blank")
@@ -316,7 +316,7 @@
     .row.align-items-start
       .col-lg-7.mb-4.mb-lg-0
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Conversión de tasa efectiva a tasa efectiva en periodos diferentes")
+          .row(numero="1" titulo="Conversión de tasa efectiva a tasa efectiva en períodos diferentes")
             .col-12
               figure.my-4
                 img(src='@/assets/curso/img24.svg', style="width:550px").m-auto
@@ -335,7 +335,7 @@
                 img(src='@/assets/curso/img25.svg', style="width:550px").m-auto
               p #[b Ejemplo]: se tiene una tasa del 24% Efectiva Anual (EA), realizar la conversión a nominal mensual equivalente.
               p j = ((1+ 0,24 ) (
-                sup 12/2 
+                sup 1/12 
                 | ) -1 ) * 12
               p j = 21,71% Nominal Mensual (NM)
           .row(numero="3" titulo="Conversión de tasa nominal vencida a efectiva")
@@ -366,7 +366,7 @@
                 | =  26,72% Efectiva Anual (EA)
           .row(numero="5" titulo="Conversión de tasa nominal a otra tasa nominal")
             .col-12
-              p Para convertir una tasa nominal a otra nominal, simplemente se multiplica o divide dependiendo de las condiciones. Una forma de realizar la conversión es, primero, hallar la Nominal anual, y después, dividir en el periodo al cual se quiere llegar.
+              p Para convertir una tasa nominal a otra nominal, simplemente se multiplica o divide dependiendo de las condiciones. Una forma de realizar la conversión es, primero, hallar la Nominal anual, y después, dividir en el período al cual se quiere llegar.
               p Pasos:
               ol.lista-ol--cuadro.mb-4
                 li 
@@ -376,7 +376,7 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | Luego, hallar el periodo buscado.
+                  | Luego, hallar el período buscado.
               p #[b Ejemplo]: se tiene una tasa 12% Nominal Trimestral (NT), se solicita hallar la tasa Nominal Anual (NA).
               p n = 12 * 4
               p n = 48% Nominal Anual (NA)
@@ -407,7 +407,7 @@
             figure
               img(src='@/assets/curso/img29.svg')
           .col
-            p.mb-0 #[b Tasa (i)]: porcentaje que se aplica al valor de la deuda, teniendo en cuenta la igualdad entre el periodo de capitalización y periodo de tiempo.
+            p.mb-0 #[b Tasa (i)]: porcentaje que se aplica al valor de la deuda, teniendo en cuenta la igualdad entre el período de capitalización y período de tiempo.
       .col-lg-7.p-4.rounded.bg-color1.mb-2
         .row.align-items-center
           .col-auto.d-inline
@@ -439,9 +439,9 @@
             figure
               img(src='@/assets/curso/img5.svg')
           .col
-            p.mb-0 #[b Ejemplo 1]: la siguiente tabla de amortización presenta el método francés, donde se establece la cuota fija en el periodo de pago acordado.
+            p.mb-0 #[b Ejemplo 1]: la siguiente tabla de amortización presenta el método francés, donde se establece la cuota fija en el período de pago acordado.
         .cajon.color-primario.p-4.mb-4
-          p.mb-0 La empresa Supercueros SAS, realiza un préstamo por valor de $ 12.000.000, a una tasa del 1,7% EM, por un periodo de tiempo de 6 meses.
+          p.mb-0 La empresa Supercueros SAS, realiza un préstamo por valor de $ 12.000.000, a una tasa del 1,7% EM, por un período de tiempo de 6 meses.
         .row.justify-content-center
           .col-lg-8.mb-4
             .tabla-b.color-acento-contenido
@@ -457,7 +457,7 @@
                     td.text-center 1,70%
                     td.text-center MENSUAL
                   tr
-                    td.text-center PERIODO
+                    td.text-center período
                     td.text-center 6
                     td.text-center 
           .col-12.mb-4
@@ -574,7 +574,7 @@
             figure
               img(src='@/assets/curso/img5.svg')
           .col
-            p.mb-0 #[b Ejemplo 2]: Teniendo en cuenta la información del ejercicio anterior, se supone un periodo de gracia de 2 meses.
+            p.mb-0 #[b Ejemplo 2]: Teniendo en cuenta la información del ejercicio anterior, se supone un período de gracia de 2 meses.
         .row.justify-content-center
           .col-lg-8.mb-4
             .tabla-b.color-acento-contenido
@@ -590,7 +590,7 @@
                     td.text-center 1,70%
                     td.text-center MENSUAL
                   tr(style="background-color: #FFFFFF")
-                    td.text-center PERIODO
+                    td.text-center período
                     td.text-center 6
                     td.text-center
                   tr(style="background-color: #F6F6F6")
@@ -671,7 +671,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span 2
-                | Se calcula la cuota a partir del tercer mes, utilizando la fórmula de cuota fija, analizada en el ejercicio anterior. Se tiene en cuenta el número de periodos faltantes y el último saldo, con el fin de que coincida con el tiempo del préstamo.
+                | Se calcula la cuota a partir del tercer mes, utilizando la fórmula de cuota fija, analizada en el ejercicio anterior. Se tiene en cuenta el número de períodos faltantes y el último saldo, con el fin de que coincida con el tiempo del préstamo.
               li 
                 .lista-ol--cuadro__vineta
                   span 3
@@ -705,7 +705,7 @@
                     td.text-center 1,70%
                     td.text-center MENSUAL
                   tr
-                    td.text-center PERIODO
+                    td.text-center período
                     td.text-center 6
                     td.text-center
                   tr
@@ -793,14 +793,14 @@
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | Se calcula nuevamente la cuota, teniendo en cuenta los periodos faltantes y el último saldo del préstamo.
+            | Se calcula nuevamente la cuota, teniendo en cuenta los períodos faltantes y el último saldo del préstamo.
     separador.mb-5
     #t_1_5
     .titulo-segundo
       h2 1.5. Alternativas de inversión
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/nHjl83QvSUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.align-items-center.mb-4
       .col-lg-7
         .h4 Valor presente neto (VPN)

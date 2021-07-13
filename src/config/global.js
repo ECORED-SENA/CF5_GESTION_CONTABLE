@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Fundamentos de matemáticas financieras',
     descripcionCurso:
-      'En este componente formativo se abordan temas relacionados con la fundamentación y aplicación de las matemáticas financieras en el sector productivo, se analiza la clasificación de las tasas de interés, el valor del dinero en el tiempo, equivalencia de tasas, tablas de amortización y alternativas de inversión como lo son el Valor Presente Neto (VPN) y Tasa Interna de Retorno (TIR), así mismo, la Norma Internacional de Información Financiera (NIIF) 13 – Medición del Valor Razonable , teniendo en cuenta la importancia de su análisis y aplicación en el registro de los hechos económicos bajo los estándares internacionales.',
+      'En este componente formativo se abordan temas relacionados con la fundamentación y aplicación de las matemáticas financieras en el sector productivo, se analiza la clasificación de las tasas de interés, el valor del dinero en el tiempo, equivalencia de tasas, tablas de amortización y alternativas de inversión como lo son el Valor Presente Neto (VPN) y Tasa Interna de Retorno (TIR).<br><br> Se profundiza en la Norma Internacional de Información Financiera (NIIF) 13 – Medición del Valor Razonable , teniendo en cuenta la importancia de su análisis y aplicación en el registro de los hechos económicos bajo los estándares internacionales.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -106,7 +106,7 @@ export default {
       referencia:
         'Consejo Técnico de la Contaduría Pública (CTCP) (s.f). Norma Internacional de Información Financiera 13 Medición del Valor Razonable.',
       link:
-        'http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534363802-6328',
+        'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534363802-6328',
     },
     {
       referencia:
@@ -238,7 +238,7 @@ export default {
       texto: 'Normas Internacionales de Información Financiera',
       tipo: 'Página web',
       link:
-        'http://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534363802-6328',
+        'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534363802-6328',
     },
   ],
   creditos: {
@@ -255,6 +255,22 @@ export default {
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Patricia Mantilla Galvis',
+        cargo: 'Instructora',
+        centro: 'Centro de Servicios Financieros Regional Distrito Capital',
+      },
+      {
+        nombre: 'Maryuri Agudelo Franco',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Adriana Lozano Zapata',
+        cargo: 'Correctora de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -299,37 +315,37 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Maria Carolina Tamayo',
+        nombre: 'Maria Carolina Tamayo Lopez',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Víctor Cardenas',
+        nombre: 'Víctor Raúl Cárdenas Cáceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Carlos Eduardo Garavito',
+        nombre: 'Carlos Eduardo Garavito Parada',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Jose Tang',
+        nombre: 'José Jaime Luis Tang Pinzón',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Ricardo Vasquez',
+        nombre: 'Ricardo Vásquez Arroyave',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
