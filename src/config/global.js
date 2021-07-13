@@ -236,7 +236,7 @@ export default {
     },
     {
       texto: 'Normas Internacionales de Información Financiera',
-      tipo: 'Página web',
+      tipo: 'PDF',
       link:
         'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534363802-6328',
     },
