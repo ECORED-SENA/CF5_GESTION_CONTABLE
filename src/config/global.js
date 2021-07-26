@@ -157,7 +157,7 @@ export default {
     {
       termino: 'Interés simple',
       significado:
-        'se llama interés simple aquél en el cual los intereses devengados en un período no ganan intereses en los períodos siguientes, independientemente de que se paguen o no. Únicamente sobre el capital principal se liquidan los intereses sin tener en cuenta los intereses precedentes causados.',
+        'se llama interés simple aquel en el cual los intereses devengados en un período no ganan intereses en los períodos siguientes, independientemente de que se paguen o no. Únicamente sobre el capital principal se liquidan los intereses sin tener en cuenta los intereses precedentes causados.',
     },
     {
       termino: 'Inversión',
